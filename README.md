@@ -1,4 +1,4 @@
-# Genetic Algorithm For TSP
+# Genetic Algorithm Solution To TSP
 
 ## Description
 Genetic Algorithm solution to Traveling-Salesman-Problem.
@@ -14,7 +14,7 @@ Install dependencies by running following command:
 ```python TSP.py```
 
 ### Result
-Here is final result and table of accuracy for recovering noisy images.
+Here is final route distance with minimum cost `63` to visit all nodes and return to first place.
 \
 <img src="./path.png" alt="pic">
 
